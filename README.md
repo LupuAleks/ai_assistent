@@ -3,6 +3,10 @@
 
 Ссылка на телеграм бота: @aleks20012025_bot
 
+![image]([https://github.com/user-attachments/assets/ea6f681d-18ee-4588-a0de-89494bddd73c](https://github.com/LupuAleks/ai_assistent/blob/main/%D0%94%D0%971.jpg?raw=true))
+![image]([https://github.com/user-attachments/assets/7772c089-ce07-4628-a8ad-f6a0d619e5ed](https://github.com/LupuAleks/ai_assistent/blob/main/%D0%94%D0%972.jpg?raw=true))
+![image]([https://github.com/user-attachments/assets/9304287a-66aa-471b-b4f7-06922a61244a](https://github.com/LupuAleks/ai_assistent/blob/main/%D0%94%D0%973jpg.jpg?raw=true))
+
 
 ## Описание проекта
 
